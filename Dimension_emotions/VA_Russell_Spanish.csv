@@ -1,0 +1,47 @@
+Me siento asombrado,High arousal
+Me siento alarmado,High arousal
+Me siento enojado,High arousal
+Estoy emocionado,High arousal
+tengo miedo,High arousal
+
+me siento cansado,Low arousal
+Tengo sueño,Low arousal
+me siento calmado,Low arousal
+Me siento satisfecho,Low arousal
+me siento deprimido,Low arousal
+
+me siento feliz,Positive valence
+Me siento complacido,Positive valence
+Me siento encantado,Positive valence
+Me siento satisfecho,Positive valence
+Estoy emocionado,Positive valence
+
+me siento miserable,Negative valence
+me siento frustrado,Negative valence
+me siento triste,Negative valence
+me siento deprimido,Negative valence
+tengo miedo,Negative valence
+
+estoy asombrado,High arousal
+Estoy alarmado,High arousal
+Estoy enojado,High arousal
+estoy muy emocionado,High arousal
+tengo miedo,High arousal
+
+estoy cansado,Low arousal
+tengo sueño,Low arousal
+Estoy calmado,Low arousal
+Estoy satisfecho,Low arousal
+Estoy deprimido,Low arousal
+
+Yo estoy feliz,Positive valence
+encantada,Positive valence
+Estoy encantado,Positive valence
+Estoy satisfecho,Positive valence
+estoy muy emocionado,Positive valence
+
+soy miserable,Negative valence
+estoy frustrado,Negative valence
+estoy triste,Negative valence
+Estoy deprimido,Negative valence
+tengo miedo,Negative valence
